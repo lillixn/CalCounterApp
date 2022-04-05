@@ -130,5 +130,9 @@ CalCounter is a streamlined, user-friendly solution to tracking calories. Tradit
       - (Update/PUT) Update user profile image
 
 
+
+
 ##Milestone 1
+
+
 <img src="https://github.com/lillixn/CalCounterApp/blob/master/milestone1.gif" width=400>
