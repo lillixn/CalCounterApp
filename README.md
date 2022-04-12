@@ -36,6 +36,9 @@ CalCounter is a streamlined, user-friendly solution to tracking calories. Tradit
 [x] User can create an account
 [x] User can login
 [x] Bottom navigation
+[x] Landing page
+[x] Scan page
+[x] User profile page
 [] User can set calorie goal
 [] User can log calories
 [] User can enable/disable location services
@@ -137,3 +140,8 @@ CalCounter is a streamlined, user-friendly solution to tracking calories. Tradit
 
 
 <img src="https://github.com/lillixn/CalCounterApp/blob/master/milestone1.gif" width=400>
+
+
+
+
+##Milestone 2
