@@ -6,7 +6,7 @@
     <data>
         <variable
             name="userAction"
-            type="com.mili.calCounter.UserAction" />
+            type="com.example.calcounterapp.UserAction" />
 
         <variable
             name="scannedData"
