@@ -5,7 +5,7 @@ import com.parse.ParseFile;
 import com.parse.ParseObject;
 import com.parse.ParseUser;
 
-@ParseClassName("Post")
+@ParseClassName("Posts")
 public class Post extends ParseObject {
 
     public static final String KEY_DESCRIPTION = "description";
