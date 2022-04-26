@@ -49,7 +49,7 @@ CalCounter is a streamlined, user-friendly solution to tracking calories. Tradit
 
 [x] User can launch camera
 
-[] User can set calorie goal
+[x] User can set calorie goal
 
 [] User can log calories
 
